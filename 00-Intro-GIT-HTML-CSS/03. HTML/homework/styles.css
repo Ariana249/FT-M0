@@ -1,3 +1,12 @@
+body { background-image: url("https://www.wallpapertip.com/wmimgs/50-504389_hd-restaurant-wallpaper-hd-restaurant-design.jpg");
+    background-position: 50% 50%;
+}
+h1 { color: rgb(54, 9, 9);
+}
+.divClass{color: black;
+    padding: 5px;
+    text-align: center;          
+}
 #spanId{
     font-size: 18px;
     margin: 50px;
@@ -8,11 +17,8 @@
     height: 600px;
     width: 500px;
     background-color: coral;
-}
-h1 { color: brown ;
+    margin: auto;
 }
 img {
     width: 400px;
-}
-.divClass{
 }

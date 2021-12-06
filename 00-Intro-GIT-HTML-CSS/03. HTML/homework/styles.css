@@ -21,4 +21,6 @@ h1 { color: rgb(54, 9, 9);
 }
 img {
     width: 400px;
+    border-radius: 15px;  
 }
+
